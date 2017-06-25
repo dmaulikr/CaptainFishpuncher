@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\My_Scripts\Fishcontroller.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\Punch_controller.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\Destroyer_L.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\Destroyer_R.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\Hook_script_to_Pace.js" Line="42" Column="4" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\Capsule_controller.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\StartLevel_Custscene.js" Line="65" Column="33" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\Fishcontroller.js" Line="23" Column="55" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\Input_Controller.js" Line="98" Column="65" />
+      <File FileName="Assets\Standard Assets\Scripts\My_Scripts\attach_the_chest.js" Line="23" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

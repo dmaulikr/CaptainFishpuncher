@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 56ceaa19509f63c4ea4c86d24e19ff2f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature_002
+    100004: Bone_010
+    100006: Bone_013
+    100008: Camera
+    100010: Cube
+    100012: Fin_L
+    100014: Fin_R
+    100016: //RootNode
+    100018: Head
+    100020: Lamp
+    100022: LowerLip_1
+    100024: LowerLip_2
+    100026: LowerLip_L
+    100028: LowerLip_R
+    100030: MidA
+    100032: MidB
+    100034: MidC
+    100036: MidD
+    100038: Neck
+    100040: TailA
+    100042: TailB
+    100044: UpperLip_2
+    100046: UpperLip_l
+    400000: Armature
+    400002: Armature_002
+    400004: Bone_010
+    400006: Bone_013
+    400008: Camera
+    400010: Cube
+    400012: Fin_L
+    400014: Fin_R
+    400016: //RootNode
+    400018: Head
+    400020: Lamp
+    400022: LowerLip_1
+    400024: LowerLip_2
+    400026: LowerLip_L
+    400028: LowerLip_R
+    400030: MidA
+    400032: MidB
+    400034: MidC
+    400036: MidD
+    400038: Neck
+    400040: TailA
+    400042: TailB
+    400044: UpperLip_2
+    400046: UpperLip_l
+    4300000: Cube
+    7400000: Default Take
+    7400002: ArmatureAction
+    7400004: Fish_Swim
+    7400006: Fish_Hit
+    7400008: Fish_Face
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 107
+      lastFrame: 146
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone_010
+        weight: 1
+      - path: Armature/Bone_010/UpperLip_l
+        weight: 1
+      - path: Armature/Fin_L
+        weight: 1
+      - path: Armature/Fin_R
+        weight: 1
+      - path: Armature/LowerLip_1
+        weight: 1
+      - path: Armature/LowerLip_1/LowerLip_R
+        weight: 1
+      - path: Armature/LowerLip_2
+        weight: 1
+      - path: Armature/LowerLip_2/LowerLip_L
+        weight: 1
+      - path: Armature/MidA
+        weight: 1
+      - path: Armature/MidA/Neck
+        weight: 1
+      - path: Armature/MidA/Neck/Head
+        weight: 1
+      - path: Armature/MidB
+        weight: 1
+      - path: Armature/MidB/MidC
+        weight: 1
+      - path: Armature/MidB/MidC/MidD
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA/TailB
+        weight: 1
+      - path: Armature/UpperLip_2
+        weight: 1
+      - path: Armature/UpperLip_2/Bone_013
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone_010
+        weight: 1
+      - path: Armature/Bone_010/UpperLip_l
+        weight: 1
+      - path: Armature/Fin_L
+        weight: 1
+      - path: Armature/Fin_R
+        weight: 1
+      - path: Armature/LowerLip_1
+        weight: 1
+      - path: Armature/LowerLip_1/LowerLip_R
+        weight: 1
+      - path: Armature/LowerLip_2
+        weight: 1
+      - path: Armature/LowerLip_2/LowerLip_L
+        weight: 1
+      - path: Armature/MidA
+        weight: 1
+      - path: Armature/MidA/Neck
+        weight: 1
+      - path: Armature/MidA/Neck/Head
+        weight: 1
+      - path: Armature/MidB
+        weight: 1
+      - path: Armature/MidB/MidC
+        weight: 1
+      - path: Armature/MidB/MidC/MidD
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA/TailB
+        weight: 1
+      - path: Armature/UpperLip_2
+        weight: 1
+      - path: Armature/UpperLip_2/Bone_013
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Fish_Swim
+      takeName: ArmatureAction
+      firstFrame: 18
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone_010
+        weight: 1
+      - path: Armature/Bone_010/UpperLip_l
+        weight: 1
+      - path: Armature/Fin_L
+        weight: 1
+      - path: Armature/Fin_R
+        weight: 1
+      - path: Armature/LowerLip_1
+        weight: 1
+      - path: Armature/LowerLip_1/LowerLip_R
+        weight: 1
+      - path: Armature/LowerLip_2
+        weight: 1
+      - path: Armature/LowerLip_2/LowerLip_L
+        weight: 1
+      - path: Armature/MidA
+        weight: 1
+      - path: Armature/MidA/Neck
+        weight: 1
+      - path: Armature/MidA/Neck/Head
+        weight: 1
+      - path: Armature/MidB
+        weight: 1
+      - path: Armature/MidB/MidC
+        weight: 1
+      - path: Armature/MidB/MidC/MidD
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA/TailB
+        weight: 1
+      - path: Armature/UpperLip_2
+        weight: 1
+      - path: Armature/UpperLip_2/Bone_013
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Fish_Hit
+      takeName: ArmatureAction
+      firstFrame: 85
+      lastFrame: 100
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone_010
+        weight: 1
+      - path: Armature/Bone_010/UpperLip_l
+        weight: 1
+      - path: Armature/Fin_L
+        weight: 1
+      - path: Armature/Fin_R
+        weight: 1
+      - path: Armature/LowerLip_1
+        weight: 1
+      - path: Armature/LowerLip_1/LowerLip_R
+        weight: 1
+      - path: Armature/LowerLip_2
+        weight: 1
+      - path: Armature/LowerLip_2/LowerLip_L
+        weight: 1
+      - path: Armature/MidA
+        weight: 1
+      - path: Armature/MidA/Neck
+        weight: 1
+      - path: Armature/MidA/Neck/Head
+        weight: 1
+      - path: Armature/MidB
+        weight: 1
+      - path: Armature/MidB/MidC
+        weight: 1
+      - path: Armature/MidB/MidC/MidD
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA/TailB
+        weight: 1
+      - path: Armature/UpperLip_2
+        weight: 1
+      - path: Armature/UpperLip_2/Bone_013
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Fish_Face
+      takeName: ArmatureAction
+      firstFrame: 105
+      lastFrame: 114
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone_010
+        weight: 1
+      - path: Armature/Bone_010/UpperLip_l
+        weight: 1
+      - path: Armature/Fin_L
+        weight: 1
+      - path: Armature/Fin_R
+        weight: 1
+      - path: Armature/LowerLip_1
+        weight: 1
+      - path: Armature/LowerLip_1/LowerLip_R
+        weight: 1
+      - path: Armature/LowerLip_2
+        weight: 1
+      - path: Armature/LowerLip_2/LowerLip_L
+        weight: 1
+      - path: Armature/MidA
+        weight: 1
+      - path: Armature/MidA/Neck
+        weight: 1
+      - path: Armature/MidA/Neck/Head
+        weight: 1
+      - path: Armature/MidB
+        weight: 1
+      - path: Armature/MidB/MidC
+        weight: 1
+      - path: Armature/MidB/MidC/MidD
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA
+        weight: 1
+      - path: Armature/MidB/MidC/MidD/TailA/TailB
+        weight: 1
+      - path: Armature/UpperLip_2
+        weight: 1
+      - path: Armature/UpperLip_2/Bone_013
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
